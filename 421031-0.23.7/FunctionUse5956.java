@@ -1,0 +1,7 @@
+import org.apache.hadoop.fs.shell.SetReplication;
+public class FunctionUse5956 {
+public void funcUse() {
+SetReplication setreplication = new SetReplication();
+setreplication.waitForReplication();
+}
+}
